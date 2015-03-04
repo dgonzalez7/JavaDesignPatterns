@@ -16,3 +16,5 @@ Creational
 Structural -- Help manage how classes are organized and interrelate
 
 	Adapter -  Convert the interface of a class to another interface that clients expect.  Adapter lets classes work toghether that coiuldn't otherwise because of incompatible interfaces.
+	
+	Bridge - Decouple an abstraction from its implementation so that each may vary independently.
