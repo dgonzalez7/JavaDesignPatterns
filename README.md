@@ -15,8 +15,10 @@ Creational
 
 Structural -- Help manage how classes are organized and interrelate
 
-	Adapter -  Convert the interface of a class to another interface that clients expect.  Adapter lets classes work toghether that coiuldn't otherwise because of incompatible interfaces.
+	Adapter -  Convert the interface of a class to another interface that clients expect.  Adapter lets classes work together that coiuldn't otherwise because of incompatible interfaces.
 	
 	Bridge - Decouple an abstraction from its implementation so that each may vary independently.
 	
 	Composite - Compose objects into tree structures to represent part-whole hierarchies.  Composite lets clients treat individual objects and compositions of objects uniformly. 
+	
+	Decorator - Attach additional responsibilities to an object dynamically.  Decorators provide a flexible alternative to sub-classing for extending functionality. 
