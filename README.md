@@ -22,3 +22,9 @@ Structural -- Help manage how classes are organized and interrelate
 	Composite - Compose objects into tree structures to represent part-whole hierarchies.  Composite lets clients treat individual objects and compositions of objects uniformly. 
 	
 	Decorator - Attach additional responsibilities to an object dynamically.  Decorators provide a flexible alternative to sub-classing for extending functionality. 
+	
+	Facade - Provide a useful interface to a set of interfaces in a system.  Facade defines a higher-level interface that makes the subsystem easier to use.
+	
+	Flyweight - Use sharing to support large numbers of fine-grained objects efficiently.
+	
+	Proxy - Provide a surrogate or place-holder for another object to control access to it.  (Good for concurrency.)
