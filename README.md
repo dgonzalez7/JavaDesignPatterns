@@ -28,3 +28,9 @@ Structural -- Help manage how classes are organized and interrelate
 	Flyweight - Use sharing to support large numbers of fine-grained objects efficiently.
 	
 	Proxy - Provide a surrogate or place-holder for another object to control access to it.  (Good for concurrency.)
+	
+Behavioral -- Help manage what classes actually do
+
+	Chain of Responsibility - Avoid coupling a sender of a request to its receiver by giving more than one object a chance to handle a request.  Chain the receiving objects and pass the request along the chain until an object handles it.
+	
+	Command - Encapsulate a request as an object, thereby letting you parameterize clients with different requests, queue or log requests and support undoable operations.   
